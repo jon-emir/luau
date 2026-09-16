@@ -1,2 +1,2 @@
 # luau
-luau öğrenme
+
